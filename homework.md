@@ -6,7 +6,7 @@
 
 [到README.md](README.md)
 
-![周深](zhoushen.jpg)
+![an image that is a file in the directory](zhoushen.jpg)
 
 ![好看吗](https://img2.baidu.com/it/u=3589640735,1617781498&fm=26&fmt=auto&gp=0.jpg)
 
